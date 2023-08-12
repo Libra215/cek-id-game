@@ -50,4 +50,4 @@ Use `code .` to open file in VS Code
 
 ## API Docs
 
-You Can See All Documentation Here <a target="_blank" href="https://cek-id-game.hmdan214.repl.co"</a>
+You Can See All Documentation Here <a target="_blank" href="https://cek-id-game.hmdan214.repl.co">GET DOCS</a>
