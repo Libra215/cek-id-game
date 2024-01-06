@@ -5,11 +5,11 @@ const bodyParser = require('body-parser');
 
 
 const baseURL = axios.create({
-	baseURL: "https://api-cek-id-game.vercel.app"
+	baseURL: "https://api.kitadigital.my.id/api"
 })
 
 app.get('/', async (req, res) => {
-	const url = await axios.get("https://api-cek-id-game.vercel.app", {
+	const url = await axios.get("https://api.kitadigital.my.id/api", {
 		headers: {
 			'Content-Type': 'application/json'
 		}
